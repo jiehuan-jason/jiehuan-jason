@@ -6,7 +6,7 @@
 - ⚡ Fun fact: My favourite phone is Lumia 830! And my favourite games are Cities:Skylines and Minecraft.
 - 💜 If you want to support me, please click the link and donate: https://afdian.com/a/jiehuan233
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiehuan-jason)](https://github.com/anuraghazra/github-readme-stats)
+<!---  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiehuan-jason)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <!---
 jiehuan-jason/jiehuan-jason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
