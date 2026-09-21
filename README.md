@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehuan-jason&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jiehuan-jason&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 - 👋 Hi, I’m @jiehuan-jason
 - 👀 I’m interested in Old devices developing, like Symbian, Windows phone 8 & Windows 10 Mobile.
 - 📱 Now I'm focus on Project Kinsler-Develop the daily apps for old devices. If you want to join, just pull requests to me or email me.
