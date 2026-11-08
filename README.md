@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java ME and C#
 - 📫 How to reach me Email me: jiehuan233@outlook.com or jiehuan233@yandex.com
 - ⚡ Fun fact: My favourite phone is Lumia 830! And my favourite games are Cities : Skylines and Minecraft.
-- 💜 If you want to support me, please click the link and donate: https://afdian.com/a/jiehuan233
+- 💜 If you want to support me, please click the link and donate: https://ifdian.net/a/jiehuan233
 
 <!---  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiehuan-jason)](https://github.com/anuraghazra/github-readme-stats) --->
 
